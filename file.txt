@@ -4,3 +4,4 @@ Three - 3
 Four - 4
 Five
 Six - 6
+Seven - 7 local 
